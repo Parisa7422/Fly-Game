@@ -1,0 +1,16 @@
+:root {
+    --purple: #8d43b4;
+    --green: #2aa650;
+    --red: #e84e34;
+    --blue: #59aaeb
+}
+
+.container-fulid {
+    margin: 0 0.3rem;
+    padding: 0;
+}
+
+.col {
+    border-radius: 0.5rem;
+
+}
